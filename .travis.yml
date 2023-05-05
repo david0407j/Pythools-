@@ -1,7 +1,6 @@
 language: Python
 Python:
   - 3.10
-  - 2.7
 install:
   pip install -r requirements-dev.txt
 script:
