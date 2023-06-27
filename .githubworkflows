@@ -29,3 +29,4 @@ jobs:
       - name: Run Python Linter
         run: flake8 libpythonpro2/
         run: pytest libpythonpro2/
+        run: pipenv libythonpro2/
