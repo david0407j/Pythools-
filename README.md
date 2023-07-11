@@ -4,8 +4,12 @@ módulo para exemplificar construção de projeto Python no curso pytools
 nesse curso e ensinado como contribuir com projetos de código aberto
 
 link para curso [Python pro](https://plataforma.dev.pro.br)
-![Updates](https://pyup.io/repos/github/david0407j/libpythonpro2/shield.svg)] (https://pyup.io/repos/github/david0407j/libpythonpro)
+
+
+![Updates](https://pyup.io/repos/github/david0407j/libpythonpro2/shield.svg)]
 [![Python 3](https://pyup.io/repos/github/david0407j/libpythonpro2/python-3-shield.svg)](https://pyup.io/repos/github/david0407j/libpythonpro2/)
+
+
 Suportada versão 3 de  Python
 para instalar:
 ```cosole
