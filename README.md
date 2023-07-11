@@ -1,4 +1,4 @@
-# libpythonpro
+# libpythonpro2
 módulo para exemplificar construção de projeto Python no curso pytools
 
 nesse curso e ensinado como contribuir com projetos de código aberto
@@ -15,7 +15,6 @@ para instalar:
 ```cosole
 Python -m venv .venv
 source.venv/bin/activate
-pip install -r requiments-dev.txt
 ```
 para conferir qualidade de código:
 ``` console
